@@ -1,9 +1,5 @@
-Feature: PetStore API Test
-  Esta prueba se centra en probar la API de PetStore para realizar las siguientes acciones:
-  - Añadir una mascota a la tienda
-  - Consultar la mascota ingresada previamente (Búsqueda por ID)
-  - Actualizar el nombre de la mascota y el estatus a "sold"
-  - Consultar la mascota modificada por estatus (Búsqueda por estatus)
+Feature: ReqRes API Test
+
 
   Background:
     * url 'https://reqres.in/'
